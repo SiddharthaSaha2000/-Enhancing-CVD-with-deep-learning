@@ -1,2 +1,1 @@
-# -Enhancing-CVD-with-deep-learning
-Capstone Project 
+Daltonization is a technique that adjusts image colors to sustain people with color vision deficiency (CVD). This research aims to demonstrate AI methods like deep learning to make images more tangible to people with color vision deficiency. The goal of employing models like the neural network CNN-based Autoencoders model on daltonization is to create personalized image representations that cater to their specific visual needs. Our research paves the way for a future where technology bridges the gap in color perception. 
